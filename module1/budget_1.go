@@ -1,7 +1,7 @@
 package module1
 
 // Budget stores budget information
-struct budget{
+struct Budget{
 Max float32
 Items []Item
 }
